@@ -1,2 +1,2 @@
-# coral-redirect
-temporary redirect from coral.app.jku-vds-lab.at to coral.caleydoapp.org
+# llm-prompting-redirect
+temporary redirect from llm-prompting.jku-vds-lab.at to llm-prompting.caleydoapp.org
